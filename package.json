@@ -1,0 +1,11 @@
+{
+	"name": "simstim",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2014, henrik",
+	"authors": ["henrik"],
+	"dependencies": {
+        "derelict-gl3": "~master",
+        "derelict-sdl2": "~master",
+        "derelict-glfw3": "~master"
+	}
+}
